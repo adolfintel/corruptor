@@ -3,7 +3,7 @@
 A simple multithread databending tool. Can be used to create glitch art, or just to simulate an unreliable communication.
 
 ## Download
-[Download from my site](http://downloads.adolfintel.com/geth.php?r=corruptor-bin) (Requires [Java](http://java.com))
+[Download from my site](http://downloads.fdossena.com/geth.php?r=corruptor-bin) (Requires [Java](http://java.com))
 
 ## Usage
 If you want to play with the code, just import the project into Netbeans
@@ -12,8 +12,8 @@ If you want to play with the code, just import the project into Netbeans
 Multiplaform, Java SE 7
 
 ## Screenshots
-![Screenshot](http://adolfintel.com/corruptor/pc1.png)
-![Screenshot](http://adolfintel.com/corruptor/example.png)
+![Screenshot](http://fdossena.com/corruptor/pc1.png)
+![Screenshot](http://fdossena.com/corruptor/example.png)
 
 ## License
 Copyright (C) 2015 Federico Dossena
